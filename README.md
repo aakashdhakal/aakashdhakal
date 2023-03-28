@@ -23,7 +23,7 @@
 
 
 ### 😂 Random Dev Meme
-<img src="https://meme-api.com/gimme" width="512px"/>
+<img src="https://api.imgflip.com/get_memes" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aakashdhakal&icon=5&color=0)](https://visitcount.itsvg.in)
