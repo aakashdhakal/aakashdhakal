@@ -26,4 +26,4 @@
 <img src=" https://dynamic-badges.maxalpha.repl.co/meme" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aakashdhakal&icon=5&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=aakashdhakal&icon=5&color=3)](https://visitcount.itsvg.in)
