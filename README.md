@@ -20,10 +20,5 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-### 😂 Random Dev Meme
-<img src=" https://dynamic-badges.maxalpha.repl.co/meme" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=aakashdhakal&icon=5&color=3)](https://visitcount.itsvg.in)
