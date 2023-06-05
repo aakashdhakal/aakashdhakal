@@ -2,7 +2,7 @@
 <h3 align="center">An explorer of vast universe of computer programming</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning Computer Science and Information Technology<br><br>👨‍💻 Some of my projects are available at https://github.com/aakashdhakal<br><br>📝 I (not till now) regularly write articles on https://blogs.aakashdhakal.com.np/<br><br>📫 How to reach me contact@aakashdhakal.com.np<br><br>📄 Know about my experiences https://aakashdhakal.com.np/<br><br>⚡ Fun fact Fun fact about me is that I am not actually funny
+🌱 I’m currently learning Computer Science and Information Technology<br><br>👨‍💻 Some of my projects are available at https://github.com/aakashdhakal<br><br>📝 I  regularly write articles on https://dhakalaakash.com.np/ [NOTE: The website is still in development]<br><br>📫 How to reach me contact@aakashdhakal.com.np<br><br>📄 Know about my experiences https://aakashdhakal.com.np/<br><br>⚡ Fun fact Fun fact about me is that I am not actually funny
 
 
 ## 🌐 Socials:
