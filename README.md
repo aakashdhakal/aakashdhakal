@@ -1,24 +1,122 @@
-<h1 align="center">Hi 👋, I'm Aakash Dhakal</h1>
-<h3 align="center">An explorer of vast universe of computer programming</h3>
+<img src="./assets/pixel-night-banner.gif" align="middle" alt="Banner" width="100%"/>
+<img src="./assets/borderseparator.gif" width="100%"/>
+<div align="center">
+  <img src="./assets/animated-flame-01.gif" width="1.75%" align="left"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Jarrian+and+Welcome+to+my+Profile!" alt="Hey, I'm Jarrian and Welcome to my Profile! animated typed out" width="90%" align="middle"/>
+  <img src="./assets/animated-flame-01.gif" width="1.75%" align="right"/>
+</div>
+<img src="./assets/borderseparator.gif" width="100%"/>
 
-# 💫 About Me:
-🌱 I’m currently learning Computer Science and Information Technology<br><br>👨‍💻 Some of my projects are available at https://github.com/aakashdhakal<br><br>📝 I  regularly write articles on https://dhakalaakash.com.np/ [NOTE: The website is still in development]<br><br>📫 How to reach me contact@aakashdhakal.com.np<br><br>📄 Know about my experiences https://aakashdhakal.com.np/<br><br>⚡ Fun fact Fun fact about me is that I am not actually funny
+<div align="center"> 
+  <p><b>Profile Views</b></p>
+  <img src="https://profile-counter.glitch.me/godkingjay/count.svg" />
+</div>
 
+<h2></h2>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dhakallakash) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aakash_dhakal12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aakash-dhakal12) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aakash_dhakal12) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@aakashdhakal) 
+<img align="right" src="./assets/vaporwave-aesthetic.gif" height="560px" alt="pixel city image">
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-474A8A?style=for-the-badge&logo=php&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-dddddd?style=for-the-badge&logo=Figma&logoColor=orange) ![Github](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=White)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aakashdhakal&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aakashdhakal&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aakashdhakal&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<h2 align="center"> Self-taught<img src="./assets/animated-flame-01.gif" height="24px"/> and passionate<img src="./assets/animated-flame-01.gif" height="24px"/> about coding! </h2><br>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aakashdhakal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+* 👨‍💻 I'm Jarrian(godkingjay)👋, a college student, I'm currently pursuing a Computer Science Degree in the Philippines. <br><br><br>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
----
-[![](https://visitcount.itsvg.in/api?id=aakashdhakal&icon=5&color=3)](https://visitcount.itsvg.in)
+* 🌳 I’m currently learning TypeScript, React and NextJS! <br><br><br>
+
+* 🐾 I’m looking to network and make friends here! <br><br><br>
+
+* 🌊 2023 Goals: Learn AI and Machine Learning and Contribute to Open Source Projects. <br><br><br>
+
+* ☕ Interest: Science, Math, Coffee, and Coding. <br><br><br>
+
+* <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="16px"/> Hobbies: Sleeping, Reading, Anime, Manga, Web Novel, and Facebook. <br><br>
+
+<h2></h2>
+
+<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
+<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+
+<div align="center">
+  <h2> <strong> 📚 Education </strong> <img src="./assets/borderseparator.gif"/> </h2><br>
+  <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"/>
+  <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
+</div></br>
+
+<h2></h2>
+
+<div align="center">
+  <img src="./assets/pixel-neon.gif" alt="pixel guy using computer" width="100%" /><br>
+</div>
+
+<div align="center">
+  <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
+  <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+  
+  <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2><br>
+  
+  <img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=godkingjay&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages"> <br>
+  <h2></h2>
+  <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,md,babel,nodejs,webpack,vite,html,css,sass,tailwind,js,ts,react,nextjs,java,cpp,py,md,firebase,mongodb,mysql,regex,svg,atom,eclipse,vscode,postman,netlify,vercel,figma,ai,ps,pr" alt="skills logos" /> <br>
+  <h2></h2>
+  <h3> <strong> Actively Learning </strong></h3>
+  <img src="https://skillicons.dev/icons?i=docker,express,graphql,redux,tensorflow" alt="skills actively learning logos"> <br> 
+  <h2></h2>
+  <h3> <strong> Planning to Learn </strong></h3>
+  <img src="https://skillicons.dev/icons?i=angular,bash,bootstrap,bots,cs,dotnet,electron,flask,heroku,kotlin,kubernetes,linux,lua,pytorch,r,tensorflow,vue" alt="skills planning to learn logos">
+</div>
+
+<h2></h2>
+
+<!-- <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
+<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+
+<h2 align="center">💻 Workspace<img src="./assets/borderseparator.gif"/></h2>
+
+| 👩‍💻 Device |  ⚙️ Specification | 📃 Purpose |
+|:------:|:-------------:|:---------:|
+| <img src="https://img.shields.io/badge/acer%20Aspire%207-83B81A?style=for-the-badge&logo=acer&logoColor=white" alt="Acer Aspire 7"/> | <img src="https://img.shields.io/badge/Windows%2011%20Home-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 11 Home"/> <img src="https://img.shields.io/badge/AMD%20Ryzen%205%205500U-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="Windows 11 Home"/> <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Windows 11 Home"/> <img src="https://img.shields.io/badge/512GB%20SSD-0078D6?style=for-the-badge" alt="512GB SSD"/> <img src="https://img.shields.io/badge/16GB%20DDR4-0078D6?style=for-the-badge&logoColor=white" alt="16GB RAM"> | <img src="https://img.shields.io/badge/🧑‍💻%20Work-007DB8?style=for-the-badge" alt="Work"> <img src="https://img.shields.io/badge/🧑‍💻%20Programming-202020?style=for-the-badge" alt="Programming"> <img src="https://img.shields.io/badge/🧑‍🎓%20School-00897B?style=for-the-badge" alt="School"> |
+
+<h2></h2>
+
+<div align="center">
+  <img src="./assets/pixel-night.gif" alt="pixel city night" width="100%" /><br>
+</div> -->
+
+<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
+<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+
+<div align="center">
+  <h2> 🏆 My Github Stats <img src="./assets/borderseparator.gif"/></h2><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=godkingjay&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
+  <img src="https://streak-stats.demolab.com?user=godkingjay&theme=radical" width="49%" alt="streaks graph" />
+  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=godkingjay&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
+</div> <br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=godkingjay&custom_title=GodkingJay's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="GodkingJay's Github Activity Graph" width="100%">
+</div>
+
+</br>
+
+<h2></h2>
+
+<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
+<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+
+<div align="center">
+  <h2 align="center">👨‍💻 Projects <img src="./assets/borderseparator.gif"/></h2><br>
+  <a href="https://github.com/godkingjay/Authentic-Pinoy-Recipes-App" target="_blank">
+    <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=authentic-pinoy-recipes-app" width="49%" alt="Authentic Pinoy Recipes"/>
+  </a>
+  <a href="https://github.com/godkingjay/Reddit-Clone" target="_blank">
+    <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=reddit-clone" width="49%" alt="Reddit Clone"/>
+  </a>
+</div>
+
+<!-- <img src="https://github.com/godkingjay/godkingjay/blob/output/github-snake-dark-neon-2.svg" width="100%" align="middle"/> -->
+<img src="./assets/animated-wave.svg" />
