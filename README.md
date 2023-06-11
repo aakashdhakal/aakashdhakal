@@ -9,7 +9,7 @@
 
 <div align="center"> 
   <p><b>Profile Views</b></p>
-  <img src="https://profile-counter.glitch.me/godkingjay/count.svg" />
+  <img src="https://profile-counter.glitch.me/aakashdhakal/count.svg" />
 </div>
 
 <h2></h2>
