@@ -17,5 +17,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aakashdhakal&icon=5&color=0)](https://visitcount.itsvg.in)
-
+![Profile views](https://gpvc.arturio.dev/[aakashdhakal])
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
