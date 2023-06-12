@@ -94,3 +94,4 @@
 </div>
 
 ###
+  ![Snake animation](https://github.com/aakashdhakal/aakashdhakal/blob/output/github-contribution-grid-snake.svg)
