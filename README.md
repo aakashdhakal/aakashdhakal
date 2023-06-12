@@ -4,7 +4,8 @@
 [![](https://visitcount.itsvg.in/api?id=aakashdhakal&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-<p align="center" margin-left="10px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aakashdhakal" alt="aakashdhakal" /></a> </p>
+<p align="center" margin-left="10px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aakashdhakal" alt="aakashdhakal" /></a> </p
+  
 - 🌱 I’m currently learning **Computer Science and Information Technology**
 
 - 👨‍💻 Some of my projects are available at [https://github.com/aakashdhakal](https://github.com/aakashdhakal)
