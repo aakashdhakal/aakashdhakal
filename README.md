@@ -31,7 +31,7 @@
   <a href="https://twitter.com/aakash_dhakal12" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="60" height="30" alt="twitter logo"  />
   </a>
-  <a href="https://youtube.com/@aalashdhakal" target="_blank">
+  <a href="https://youtube.com/@aakashdhakal" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="60" height="30" alt="youtube logo"  />
   </a>
   <a href="https://facebook.com/dhakallaakash" target="_blank">
