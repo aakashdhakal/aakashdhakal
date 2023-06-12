@@ -32,5 +32,5 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aakashdhakal&" alt="aakashdhakal" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aakashdhakal&show_icons=true&locale=en" alt="aakashdhakal" /></p>
-<p><img align="center" width="100vw" height="50vh" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakashdhakal&show_icons=true&locale=en&layout=compact" alt="aakashdhakal" /></p>
+<p><img align="center" width="90%" height="50vh" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakashdhakal&show_icons=true&locale=en&layout=compact" alt="aakashdhakal" /></p>
 
