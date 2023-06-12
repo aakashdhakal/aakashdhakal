@@ -5,9 +5,6 @@
 
 
 <p align="center" margin-left="10px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aakashdhakal" alt="aakashdhakal" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/aakash_dhakal12" target="blank"><img src="https://img.shields.io/twitter/follow/aakash_dhakal12?logo=twitter&style=for-the-badge" alt="aakash_dhakal12" /></a> </p>
-
 - 🌱 I’m currently learning **Computer Science and Information Technology**
 
 - 👨‍💻 Some of my projects are available at [https://github.com/aakashdhakal](https://github.com/aakashdhakal)
