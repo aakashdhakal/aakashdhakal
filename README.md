@@ -12,7 +12,7 @@
 
 - 👨‍💻 Some of my projects are available at [https://github.com/aakashdhakal](https://github.com/aakashdhakal)
 
-- 📝 I (not till now) regularly write articles on [https://dhakalaakash.com.np/ [This website is still in development]]
+- 📝 I (not till now) regularly write articles on https://dhakalaakash.com.np [This website is still in development]
 
 - 📫 How to reach me **contact@aakashdhakal.com.np**
 
