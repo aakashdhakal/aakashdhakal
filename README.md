@@ -11,7 +11,7 @@
 </div>
 
 ###
- ![Snake animation](https://github.com/aakashdhakal/aakashdhakal/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/aakashdhakal/aakashdhakal/blob/output/github-contribution-grid-snake.svg)
  
  ###
 <h3 align="left">About Me</h3>
