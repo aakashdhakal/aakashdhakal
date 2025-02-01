@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning Computer Science and Information Technology<br><br>👨‍💻 Some of my projects are available at https://github.com/aakashdhakal<br><br>📝 I (not till now) regularly write articles on https://dhakalaakash.com.np [This website is still in development]<br><br>📫 How to reach me contact@aakashdhakal.com.np<br><br>📄 Know about my experiences https://aakashdhakal.com.np<br><br>⚡ Fun fact  about me is that I am not actually funny</p>
+<p align="left">🌱 I’m currently learning Computer Science and Information Technology<br><br>👨‍💻 Some of my projects are available at https://github.com/aakashdhakal<br><br>📫 How to reach me contact@aakashdhakal.com.np<br><br>⚡ Fun fact  about me is that I am not actually funny</p>
 
 ###
 
