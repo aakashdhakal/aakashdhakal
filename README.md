@@ -19,7 +19,17 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning Computer Science and Information Technology<br><br>👨‍💻 Some of my projects are available at https://github.com/aakashdhakal<br><br>📫 How to reach me contact@aakashdhakal.com.np<br><br>⚡ Fun fact  about me is that I am not actually funny</p>
+🌱 Completed BSc. CSIT from Tribhuvan University
+
+👨‍💻 My projects are available at [github](https://github.com/aakashdhakal)
+
+📫 How to reach me contact@aakashdhakal.com.np
+
+⚡ Fun fact about me is that I am not actually funny
+
+🌐 If you want to know more you can visit my [website](https://aakashdhakal.com.np/)
+
+✍️ If you want to read garbages of my mind than you can visit my [blogs](https://blog.aakashdhakal.com.np/)
 
 ###
 
